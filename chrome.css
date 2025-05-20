@@ -1,0 +1,6 @@
+@-moz-document url-prefix("chrome:") {
+    .zen-current-workspace-indicator {
+        display: none !important;
+    }
+
+}
